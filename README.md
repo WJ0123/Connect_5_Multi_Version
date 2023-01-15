@@ -2,6 +2,7 @@
 # It a game written in Python 2.7. You have to connect 5 stones in a row to win.
 
 
+
 from Tkinter import *
 from tkMessageBox import *
 from datetime import *
